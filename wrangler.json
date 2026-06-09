@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "hargate-leads-handler",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8a133205-95bf-49c1-b537-e38eb1f0ff6c",
+			"database_name": "hargate-leads-handler-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
